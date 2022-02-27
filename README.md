@@ -1,3 +1,3 @@
 # Personal-API-DIO
 
-API de gerenciamento de pessoas da dio
+API de gerenciamento de pessoas do desafio dio
